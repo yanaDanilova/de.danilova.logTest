@@ -1,0 +1,2 @@
+ERROR 2021-04-22 12:06:05 [main] Server (Server.java:43) - Connection error
+INFO  2021-04-22 12:13:52 [main] Server (Server.java:33) - Server is running on the port 8189.
